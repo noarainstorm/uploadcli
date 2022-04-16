@@ -1,4 +1,4 @@
-module gtihub.com/noarainstorm/uploadcli-tool
+module github.com/noarainstorm/uploadcli-tool
 
 go 1.18
 
