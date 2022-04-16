@@ -1,4 +1,4 @@
-module github.com/noarainstorm/uploadcli-tool
+module main
 
 go 1.18
 
