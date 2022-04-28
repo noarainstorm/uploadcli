@@ -3,6 +3,8 @@ github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NH
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/noarainstorm/uploadgramApiGo v0.0.0-20220416110212-5af53713d80b h1:nVDI7SPviiFHxbl2yZ1jd8+Up3WDq9CPv+wck4KK4ec=
 github.com/noarainstorm/uploadgramApiGo v0.0.0-20220416110212-5af53713d80b/go.mod h1:l0icLs9issv3uzgJt9P5ExLU7Q3ae6RWmVWa17+I0vU=
+github.com/noarainstorm/uploadgramApiGo v1.0.2 h1:xinRlN0DN7Wdk4R5cCdrhc1y5nNSLkLM/RJBqpdO0Hg=
+github.com/noarainstorm/uploadgramApiGo v1.0.2/go.mod h1:l0icLs9issv3uzgJt9P5ExLU7Q3ae6RWmVWa17+I0vU=
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/spf13/cobra v1.4.0 h1:y+wJpx64xcgO1V+RcnwW0LEHxTKRi2ZDPSBjWnrg88Q=
 github.com/spf13/cobra v1.4.0/go.mod h1:Wo4iy3BUC+X2Fybo0PDqwJIv3dNRiZLHQymsfxlB84g=

@@ -3,7 +3,7 @@ module github.com/noarainstorm/uploadcli
 go 1.18
 
 require (
-	github.com/noarainstorm/uploadgramApiGo v0.0.0-20220416110212-5af53713d80b
+	github.com/noarainstorm/uploadgramApiGo v1.0.2
 	github.com/spf13/cobra v1.4.0
 )
 

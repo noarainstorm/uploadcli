@@ -74,7 +74,7 @@ func upload(fileName []string, ug api.All) {
 			if errors.Is(err, api.ErrServer) {
 				log.Fatal("An error occurred on the server!")
 			}
-			if errors.Is(err, api.ErrOpenName) {
+			if errors.Is(err, api.ErrOpenFile) {
 				log.Fatal("There is no such file on the disk!")
 			}
 			log.Fatal(err)
